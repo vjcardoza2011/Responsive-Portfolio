@@ -217,15 +217,11 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 980px) {
-  body {
-    color: blue
-  }
+
 }
 
 @media only screen and (max-width: 768px) {
-  body {
-    color:red 
-  }
+ 
 }
 
 @media only screen and (max-width: 640px) {
